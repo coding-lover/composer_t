@@ -1,0 +1,11 @@
+{
+  "name": "coding-lover/composer_t",
+  "description": "this is a test",
+  "authors": [
+    {
+      "name": "coding-lover",
+      "email": "wumingcong2013@163.com",
+    }
+  ],
+  "reuqire": {},
+}
