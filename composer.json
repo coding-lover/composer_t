@@ -7,6 +7,11 @@
       "email": "wumingcong2013@163.com"
     }
   ],
+  "autoload": {
+      "psr-4": {
+        "coding-lover\\composer_t\\": "src/"
+      }
+  },
   "reuqire": {},
   "extra":{
     "branch-alias":{
